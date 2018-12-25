@@ -1,0 +1,2 @@
+webpackJsonp([13],{O2Fv:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var i={render:function(){var t=this.$createElement,e=this._self._c||t;return e("article",[e("van-nav-bar",{attrs:{title:"popup","right-text":"返回"},on:{"click-right":this.onClickLeft}}),this._v(" "),e("section")],1)},staticRenderFns:[]},r=n("VU/8")({methods:{onClickLeft:function(){this.$router.go(-1)}}},i,!1,null,null,null);e.default=r.exports}});
+//# sourceMappingURL=13.866ae11e868030e0eaec.js.map
